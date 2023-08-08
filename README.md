@@ -1,1 +1,5 @@
-
+![Assingment-4 (shoe-page)(html)(1)](https://github.com/singhpratibha98/shoes-page/assets/129493126/75cbd91a-83b3-48bf-97b4-bc98a0a5b965)
+![Assingment-4 (shoe-page)(html)(2)](https://github.com/singhpratibha98/shoes-page/assets/129493126/751ca505-e3fd-42cb-aaaf-365caa2403cc)
+![Assingment-4 (shoe-page)(css)(1)](https://github.com/singhpratibha98/shoes-page/assets/129493126/e04f3673-1e03-45fc-bbab-20aabf02ba92)
+![Assingment-4 (shoe-page)(css)(2)](https://github.com/singhpratibha98/shoes-page/assets/129493126/70e3f946-b10f-49d9-aa9c-b4f95481e7a9)
+![Assingment-4 (shoe-page)(css)(3)](https://github.com/singhpratibha98/shoes-page/assets/129493126/a95abf90-b057-4aab-ad7e-8a33c6614a52)
