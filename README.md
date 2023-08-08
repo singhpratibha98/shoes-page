@@ -3,7 +3,6 @@
 ![Assingment-4 (shoe-page)(css)(1)](https://github.com/singhpratibha98/shoes-page/assets/129493126/e04f3673-1e03-45fc-bbab-20aabf02ba92)
 ![Assingment-4 (shoe-page)(css)(2)](https://github.com/singhpratibha98/shoes-page/assets/129493126/70e3f946-b10f-49d9-aa9c-b4f95481e7a9)
 ![Assingment-4 (shoe-page)(css)(3)](https://github.com/singhpratibha98/shoes-page/assets/129493126/a95abf90-b057-4aab-ad7e-8a33c6614a52)
-
 here we have use some html amd css comand in this shoe page project:
 1) first in index.html file we make a div . we make a div by container attribute. We basically make a container and we perform all our operation within this container.
 2) If we want to give color to our background then we use the tag background: linear-gradient();and within this we have use three hex color code to give color to our page.
